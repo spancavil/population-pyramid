@@ -59,8 +59,9 @@ e) Start server
 a) Install dependencies
 ```bash
   cd frontend-react-ts-vite
+  pnpm i
 ```
-b) Copy .env.example to .env file and uncomment API_URL
+b) Copy .env.example to .env file and uncomment VITE_API_URL
 
 c) Run frontend server:
 ```bash
