@@ -1,0 +1,650 @@
+[
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 1,
+      "value": 4.1,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 1,
+      "value": 4.1,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 2,
+      "value": 4.2,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 2,
+      "value": 4.2,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 3,
+      "value": 4.3,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 3,
+      "value": 4.2,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 4,
+      "value": 4.3,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 4,
+      "value": 4.3,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 5,
+      "value": 4,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 5,
+      "value": 4.1,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 6,
+      "value": 3.8,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 6,
+      "value": 3.9,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 7,
+      "value": 3.7,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 7,
+      "value": 3.9,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 8,
+      "value": 3.2,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 8,
+      "value": 3.4,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 9,
+      "value": 2.8,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 9,
+      "value": 2.9,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 10,
+      "value": 2.7,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 10,
+      "value": 2.8,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 11,
+      "value": 2.3,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 11,
+      "value": 2.4,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 12,
+      "value": 2.1,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 12,
+      "value": 2.3,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 13,
+      "value": 1.9,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 13,
+      "value": 2.1,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 14,
+      "value": 1.6,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 14,
+      "value": 1.8,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 15,
+      "value": 1.1,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 15,
+      "value": 1.7,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 16,
+      "value": 0.8,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 16,
+      "value": 1.2,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 17,
+      "value": 0.5,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 17,
+      "value": 0.9,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 18,
+      "value": 0.2,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 1,
+      "fk_range_years": 18,
+      "value": 0.7,
+      "gender": "F"
+    }
+  },
+    {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 1,
+      "value": 3.2,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 1,
+      "value": 3,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 2,
+      "value": 3.9,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 2,
+      "value": 3.8,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 3,
+      "value": 4,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 3,
+      "value": 3.9,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 4,
+      "value": 3.8,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 4,
+      "value": 3.9,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 5,
+      "value": 3.8,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 5,
+      "value": 3.8,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 6,
+      "value": 3.8,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 6,
+      "value": 3.9,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 7,
+      "value": 3.7,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 7,
+      "value": 3.9,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 8,
+      "value": 3.5,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 8,
+      "value": 3.7,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 9,
+      "value": 3.5,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 9,
+      "value": 3.8,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 10,
+      "value": 3,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 10,
+      "value": 3.2,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 11,
+      "value": 2.6,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 11,
+      "value": 2.6,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 12,
+      "value": 2.2,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 12,
+      "value": 2.4,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 13,
+      "value": 2,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 13,
+      "value": 2.2,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 14,
+      "value": 1.8,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 14,
+      "value": 2,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 15,
+      "value": 1.6,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 15,
+      "value": 1.8,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 16,
+      "value": 1,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 16,
+      "value": 1.2,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 17,
+      "value": 0.5,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 17,
+      "value": 0.8,
+      "gender": "F"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 18,
+      "value": 0.1,
+      "gender": "M"
+    }
+  },
+  {
+    "model": "base.data",
+    "fields": {
+      "fk_country": 2,
+      "fk_range_years": 18,
+      "value": 0.3,
+      "gender": "F"
+    }
+  }
+]

@@ -1,0 +1,142 @@
+{
+	"info": {
+		"_postman_id": "1528e238-2f12-4260-9009-41a5ccc511c6",
+		"name": "Countries",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get country years",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/country_years",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"country_years"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get range years",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    fk_country_id: 1,\n    fk_range_years_id: 1,\n    value: \n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/range_years",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"range_years"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create range years",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"range\": \"35-40\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/range_years",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"range_years"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create data",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"fk_country\": 2,\n    \"fk_range_years\": 5,\n    \"value\": 4.1,\n    \"gender\": \"M\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/population_data",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"population_data"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get data",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/population_data?year=9999",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"population_data"
+					],
+					"query": [
+						{
+							"key": "year",
+							"value": "9999"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

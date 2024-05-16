@@ -1,0 +1,128 @@
+[
+  {
+    "model": "base.rangeyears",
+    "pk": 1,
+    "fields": {
+      "range": "0-4"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 2,
+    "fields": {
+      "range": "5-9"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 3,
+    "fields": {
+      "range": "10-14"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 4,
+    "fields": {
+      "range": "15-19"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 5,
+    "fields": {
+      "range": "20-24"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 6,
+    "fields": {
+      "range": "25-29"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 7,
+    "fields": {
+      "range": "30-34"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 8,
+    "fields": {
+      "range": "35-39"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 9,
+    "fields": {
+      "range": "40-44"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 10,
+    "fields": {
+      "range": "45-49"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 11,
+    "fields": {
+      "range": "50-54"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 12,
+    "fields": {
+      "range": "55-59"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 13,
+    "fields": {
+      "range": "60-64"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 14,
+    "fields": {
+      "range": "65-69"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 15,
+    "fields": {
+      "range": "70-74"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 16,
+    "fields": {
+      "range": "75-79"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 17,
+    "fields": {
+      "range": "80-84"
+    }
+  },
+  {
+    "model": "base.rangeyears",
+    "pk": 18,
+    "fields": {
+      "range": "85+"
+    }
+  }
+]

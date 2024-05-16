@@ -1,0 +1,18 @@
+[
+  {
+    "model": "base.countryyear",
+    "pk": 1,
+    "fields": {
+      "country": "Argentina",
+      "year": "2010"
+    }
+  },
+  {
+    "model": "base.countryyear",
+    "pk": 2,
+    "fields": {
+      "country": "Argentina",
+      "year": "2022"
+    }
+  }
+]
